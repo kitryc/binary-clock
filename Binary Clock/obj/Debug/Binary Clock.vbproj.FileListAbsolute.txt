@@ -1,0 +1,24 @@
+E:\Visual Basic\Chapter 5\Binary Clock\Binary Clock\bin\Debug\Binary Clock.exe.config
+E:\Visual Basic\Chapter 5\Binary Clock\Binary Clock\bin\Debug\Binary Clock.exe
+E:\Visual Basic\Chapter 5\Binary Clock\Binary Clock\bin\Debug\Binary Clock.pdb
+E:\Visual Basic\Chapter 5\Binary Clock\Binary Clock\bin\Debug\Binary Clock.xml
+E:\Visual Basic\Chapter 5\Binary Clock\Binary Clock\obj\Debug\Binary Clock.vbprojAssemblyReference.cache
+E:\Visual Basic\Chapter 5\Binary Clock\Binary Clock\obj\Debug\Binary_CLock.frmBinaryClock.resources
+E:\Visual Basic\Chapter 5\Binary Clock\Binary Clock\obj\Debug\Binary_CLock.Resources.resources
+E:\Visual Basic\Chapter 5\Binary Clock\Binary Clock\obj\Debug\Binary Clock.vbproj.GenerateResource.cache
+E:\Visual Basic\Chapter 5\Binary Clock\Binary Clock\obj\Debug\Binary Clock.vbproj.CoreCompileInputs.cache
+E:\Visual Basic\Chapter 5\Binary Clock\Binary Clock\obj\Debug\Binary Clock.exe
+E:\Visual Basic\Chapter 5\Binary Clock\Binary Clock\obj\Debug\Binary Clock.xml
+E:\Visual Basic\Chapter 5\Binary Clock\Binary Clock\obj\Debug\Binary Clock.pdb
+D:\Binary Clock\Binary Clock\bin\Debug\Binary Clock.exe.config
+D:\Binary Clock\Binary Clock\bin\Debug\Binary Clock.exe
+D:\Binary Clock\Binary Clock\bin\Debug\Binary Clock.pdb
+D:\Binary Clock\Binary Clock\bin\Debug\Binary Clock.xml
+D:\Binary Clock\Binary Clock\obj\Debug\Binary Clock.vbprojAssemblyReference.cache
+D:\Binary Clock\Binary Clock\obj\Debug\Binary_CLock.frmBinaryClock.resources
+D:\Binary Clock\Binary Clock\obj\Debug\Binary_CLock.Resources.resources
+D:\Binary Clock\Binary Clock\obj\Debug\Binary Clock.vbproj.GenerateResource.cache
+D:\Binary Clock\Binary Clock\obj\Debug\Binary Clock.vbproj.CoreCompileInputs.cache
+D:\Binary Clock\Binary Clock\obj\Debug\Binary Clock.exe
+D:\Binary Clock\Binary Clock\obj\Debug\Binary Clock.xml
+D:\Binary Clock\Binary Clock\obj\Debug\Binary Clock.pdb
